@@ -1,0 +1,13 @@
+1. ID - B2
+2. Summary - Colour of the area [Profit/Loss] is green when number is negative
+3. Precondition - Open the main page capital.com, scroll to the tradinh calculator
+4. Steps to reproduce - Choose "Short" on the radio button to make number of the area [Profit/Loss] under the graph negative
+5. ER - The number is red
+6. AR - The number is green
+7. Assigned to - Developer's name
+8. Attachment - Screenshot
+9. Environment - Google Chrome Version 109.0.5414.120  1360*768
+10. Modul - Trading Calculator
+11. Comment - The bug reproduced in Yandex Browser (version - 23.1.1.1132) and Mozila Firefox (version - 109.0.1)
+12. Severity - Trivial
+13. Priority - Middle
