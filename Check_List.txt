@@ -1,0 +1,10 @@
+1. Correct work of trading calculator - Click buttons on the widget for a while - Widget works correctly, doesn't disappear - Failed
+2. Correct work of dropdown - Click  dropdown - Dropdown list is opened - Passed
+3. Hover effect for the dropdown buttons - Place the cursor over every dropdown buttons - Buttons background becomes darker - Passed
+4. Hover effect for dropdown - Place the cursor over dropdown - Cursor shape is changed - Passed
+5. Correct work of dropdown buttons - Choose any button in dropdown - Characteristics are changed (The area [Profit/Loss],  graph and measures on the graph) - Passed
+6. Correct work of dropdown button [Gold] - Click on Gold in dropdown - The slider [Leverage] displays 1:1; 2:1; 5:1 - Passed
+7. Correct work of dropdown button [US Tech] - Click on US Tech in dropdown - The slider [Leverage] displays 1:1; 2:1; 5:1 - Passed
+8. Correct work of dropdown button [Ethereum] - Click on Ethereum in dropdown - The slider [Leverage] displays 1:1; 2:1; 5:1; 10:1; 20:1; 50:1 - Passed
+9. Correct work of dropdown button [Ripple] - Click on Ripple in dropdown - The slider [Leverage] displays 1:1; 2:1; 5:1; 10:1; 20:1; 50:1 - Passed
+10. Correct work of dropdown button [Bitcoin] - Click on Bitcoin in dropdown - The slider [Leverage] displays 1:1; 2:1; 5:1; 10:1; 20:1; 50:1 - Passed
